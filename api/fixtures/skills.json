@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": 9
+    },
+    {
+      "name": "Javascript",
+      "proficiency": 8
+    },
+    {
+      "name": "Typescript",
+      "proficiency": 7
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": 8
+    },
+    {
+      "name": "Elixir",
+      "proficiency": 5
+    },
+    {
+      "name": "Phoenix",
+      "proficiency": 5
+    },
+    {
+      "name": "Django",
+      "proficiency": 9
+    }
+  ]
+}

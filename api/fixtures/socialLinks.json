@@ -1,0 +1,12 @@
+{
+  "socialLinks": [
+    {
+      "url": "https://www.github.com/davidcroda",
+      "icon": "fa-github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/davidcroda",
+      "icon": "fa-linkedin-square"
+    }
+  ]
+}
